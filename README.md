@@ -1,2 +1,3 @@
-# Cryptography-Algorithms
-My own implementations of those algorithms discussed in "An Introduction to Mathematical Cryptography" 2nd edition.
+# CTF Crypto Toolkit
+
+Useful scritps for solving Crypto challenges in CTF.
