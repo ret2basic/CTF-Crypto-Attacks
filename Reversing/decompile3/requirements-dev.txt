@@ -1,2 +1,0 @@
-flake8
-hypothesis<=3.0.0
