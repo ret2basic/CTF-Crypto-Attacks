@@ -1,3 +1,3 @@
-# CTF Crypto Attacks
+# CTF Toolkit
 
-Useful scritps for solving Crypto challenges in CTF.
+Useful scritps for solving challenges in CTF.
